@@ -2,36 +2,23 @@
 
 # Xeno-CRM 🚀
 
+
+## 📺 Demo Video
+
+
+👉 [Video Explanation](https://drive.google.com/file/d/1bPbh0AILAYWg6dovT06_7eT07ocnbG1d/view?usp=sharing)
   
 
-An AI-powered Mini CRM Platform built for the Xeno SDE Internship Assignment 2025.
+An AI-powered Mini CRM Platform.
 
 This platform enables customer segmentation, personalized campaign delivery, and insightful performance summaries using modern technologies and Gemini AI.
 
   
 
 ## 🌐 Live Demo
+- The resources needed to keep this software live far exceeds the free usage quota of most service providers. Kindly watch the Demo Video.
 
   
-
--  **Frontend**: https://xeno-crm-lac.vercel.app/
-
--  **Backend**: https://xeno-crm-backend-s4zc.onrender.com
-
--  **Vendor Mock API**: https://xeno-crm-vendor-backend-bndb.onrender.com
-
--  **HealthCheck Service**: https://xeno-crm-healthcheck.onrender.com
-
-  
-
-## 📺 Demo Video
-
-  
-
-👉 [Video Explanation](https://drive.google.com/file/d/1bPbh0AILAYWg6dovT06_7eT07ocnbG1d/view?usp=sharing)
-
-  
-
 ## 📂 GitHub Repository
 
   
